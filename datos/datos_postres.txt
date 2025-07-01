@@ -1,0 +1,348 @@
+tipo, hambre, cansancio, restaurante, celebracion, comido_platano, estacion, postre
+cena, 1, 0, 0, 0, 1, p, mandarina
+comida, 1, 0, 0, 0, 1, p, mini magnum
+cena, 2, 0, 0, 0, 1, p, mandarina
+comida, 1, 0, 0, 0, 1, p, pera
+cena, 0, 1, 0, 0, 1, p, yogur
+comida, 1, 0, 0, 0, 1, p, mandarina
+cena, 1, 0, 0, 0, 1, p, manzana
+comida, 0, 0, 0, 0, 1, p, yogur
+cena, 1, 0, 0, 0, 1, p, manzana 
+comida, 0, 0, 0, 0, 1, p, yogur
+cena, 1, 0, 0, 0, 0, p, plátano 
+comida, 1, 0, 0, 0, 1, p, mandarina 
+cena, 1, 0, 0, 0, 1, p, mandarina 
+comida, 1, 0, 0, 0, 1, p, ciruela
+cena, 1, 1, 0, 0, 1, p, nada
+comida, 1, 1, 0, 0, 1, p, manzana
+cena, 0, 1, 1, 0, 1, p, nada
+comida, 1, 0, 0, 0, 1, p, ciruela
+cena, 0, 2, 0, 0, 1, p, yogur
+cena, 0, 1, 0, 0, 1, p, mini magnum
+comida, 1, 0, 0, 0, 1, p, mandarina
+cena, 2, 0, 0, 0, 1, p, manzana 
+comida, 1, 0, 0, 0, 1, p, mini magnum
+comida, 1, 2, 0, 0, 1, p, yogur
+comida, 2, 0, 0, 0, 1, p, manzana
+comida, 0, 1, 0, 0, 1, p, yogur
+comida, 1, 0, 0, 0, 1, p, mandarina
+comida, 1, 1, 0, 0, 0, p, plátano 
+cena, 1, 1, 0, 0, 1, p, mandarina
+comida, 1, 1, 0, 0, 1, p, mini magnum
+comida, 1, 0, 1, 0, 1, p, natillas
+comida, 1, 0, 0, 0, 1, p, ciruela
+comida, 0, 1, 1, 0, 1, p, natillas
+cena, 1, 0, 0, 0, 1, p, pera
+comida, 1, 1, 0, 0, 1, p, mini magnum
+cena, 1, 1, 0, 0, 0, p, plátano 
+comida, 1, 0, 0, 0, 1, p, pera
+cena, 1, 0, 0, 0, 1, p, manzana
+comida, 0, 1, 1, 1, 1, v, tarta
+cena, 1, 0, 0, 0, 1, v, ciruela
+comida, 0, 1, 0, 0, 1, v, yogur
+cena, 1, 0, 0, 0, 1, v, ciruela 
+comida, 0, 0, 0, 0, 0, v, mini magnum
+cena, 1, 0, 0, 0, 0, v, yogur
+comida, 1, 1, 0, 0, 1, v, mini magnum
+cena, 1, 2, 0, 0, 1, v, yogur
+comida, 1, 1, 1, 0, 1, v, nada
+cena, 2, 1, 0, 0, 1, v, ciruela
+comida, 1, 0, 0, 0, 1, v, mini magnum
+cena, 0, 1, 0, 0, 1, v, yogur
+comida, 1, 1, 1, 0, 1, v, tarta
+cena, 1, 0, 0, 0, 1, v, ciruela 
+comida, 0, 1, 0, 0, 1, v, mini magnum
+cena, 0, 1, 0, 0, 1, v, yogur
+comida, 1, 0, 0, 0, 1, v, ciruela
+cena, 0, 2, 0, 0, 1, v, yogur 
+comida, 2, 0, 0, 0, 1, v, ciruela
+cena, 1, 0, 0, 0, 1, v, ciruela
+comida, 0, 2, 0, 0, 1, v, yogur
+cena, 1, 1, 0, 0, 1, v, ciruela
+comida, 1, 0, 0, 0, 1, v, ciruela
+cena, 0, 0, 0, 1, 1, v, nada
+comida, 1, 0, 0, 0, 1, v, mini magnum
+comida, 1, 0, 0, 0, 1, v, ciruela
+cena, 1, 0, 0, 0, 1, v, manzana
+comida, 0, 2, 0, 0, 1, v, yogur
+comida, 2, 0, 1, 0, 1, o, flan
+comida, 1, 1, 1, 0, 1, o, flan
+comida, 1, 0, 1, 1, 1, v, flan
+comida, 1, 1, 1, 0, 1, v, flan
+comida, 2, 0, 1, 0, 1, v, flan
+comida, 2, 1, 1, 0, 1, v, flan
+comida, 1, 1, 1, 0, 0, v, flan
+comida, 2, 1, 1, 0, 0, v, flan
+cena, 2, 0, 1, 0, 1, v, flan
+cena, 2, 0, 1, 0, 1, v, flan
+cena, 1, 1, 1, 0, 1, o, flan
+cena, 1, 1, 1, 1, 1, o, flan
+cena, 0, 1, 1, 0, 0, v, flan
+cena, 1, 0, 1, 1, 1, v, flan
+cena, 1, 1, 1, 0, 1, v, flan
+cena, 2, 0, 1, 0, 1, v, flan
+comida, 2, 0, 1, 0, 1, o, flan
+comida, 1, 1, 1, 0, 1, o, flan
+cena, 1, 1, 1, 0, 1, o, flan
+cena, 1, 1, 1, 1, 1, o, flan
+comida, 1, 0, 1, 0, 1, o, flan
+comida, 2, 1, 1, 0, 0, o, flan
+comida, 1, 0, 1, 0, 1, o, flan
+comida, 2, 1, 1, 0, 0, o, flan
+comida, 2, 0, 1, 0, 1, p, natillas
+comida, 1, 1, 1, 0, 1, p, natillas
+comida, 1, 0, 1, 1, 1, i, natillas
+comida, 1, 1, 1, 0, 1, i, natillas
+comida, 2, 0, 1, 0, 1, i, natillas
+comida, 2, 1, 1, 0, 1, i, natillas
+comida, 1, 1, 1, 0, 0, i, natillas
+comida, 2, 1, 1, 0, 0, i, natillas
+cena, 2, 0, 1, 0, 1, i, natillas
+cena, 2, 0, 1, 0, 1, i, natillas
+cena, 1, 1, 1, 0, 1, p, natillas
+cena, 1, 1, 1, 1, 1, p, natillas
+cena, 0, 1, 1, 0, 0, i, natillas
+cena, 1, 0, 1, 1, 1, i, natillas
+cena, 1, 1, 1, 0, 1, i, natillas
+cena, 2, 0, 1, 0, 1, i, natillas
+comida, 1, 0, 1, 0, 1, p, natillas
+comida, 2, 1, 1, 0, 0, p, natillas
+comida, 1, 0, 1, 0, 1, p, natillas
+comida, 2, 1, 1, 0, 0, p, natillas
+comida, 2, 0, 1, 0, 1, p, tarta
+comida, 2, 0, 1, 1, 1, p, tarta
+comida, 1, 1, 0, 1, 1, p, tarta
+comida, 0, 2, 0, 1, 1, i, tarta
+comida, 1, 0, 0, 1, 1, p, tarta
+comida, 1, 1, 0, 1, 1, v, tarta
+comida, 0, 2, 0, 1, 1, v, tarta
+comida, 1, 0, 1, 0, 1, o, tarta
+comida, 1, 1, 0, 1, 1, i, tarta
+cena, 1, 1, 0, 1, 1, v, tarta
+cena, 1, 1, 0, 1, 1, o, tarta
+cena, 1, 1, 0, 1, 1, i, tarta
+cena, 1, 1, 0, 1, 1, p, tarta
+cena, 2, 1, 0, 1, 1, v, tarta
+cena, 1, 0, 1, 0, 1, v, tarta
+cena, 0, 1, 0, 1, 1, o, tarta
+cena, 0, 1, 0, 1, 1, i, tarta
+cena, 1, 1, 0, 1, 1, p, tarta
+cena, 2, 0, 1, 1, 0, i, tarta
+cena, 1, 1, 1, 1, 1, o, tarta
+comida, 2, 0, 1, 0, 1, v, tarta
+comida, 1, 1, 0, 1, 1, i, tarta
+comida, 2, 0, 1, 0, 0, o, tarta
+comida, 2, 0, 1, 1, 1, o, tarta
+comida, 1, 1, 0, 1, 0, i, tarta
+comida, 0, 2, 0, 1, 1, o, tarta
+comida, 0, 2, 1, 0, 1, v, nada
+comida, 0, 1, 1, 0, 1, o, nada
+comida, 0, 2, 0, 0, 1, i, nada
+comida, 0, 2, 0, 0, 0, p, nada
+comida, 0, 1, 1, 0, 1, v, nada
+comida, 0, 2, 1, 0, 1, o, nada
+comida, 0, 2, 1, 1, 1, o, nada
+comida, 1, 2, 0, 0, 1, i, nada
+comida, 0, 1, 0, 0, 1, p, nada
+comida, 0, 2, 0, 0, 1, v, nada
+comida, 0, 2, 0, 0, 1, v, nada
+comida, 1, 2, 1, 0, 1, o, nada
+comida, 0, 2, 1, 0, 1, o, nada
+comida, 0, 2, 1, 1, 1, i, nada
+comida, 0, 2, 0, 0, 1, p, nada
+comida, 0, 1, 0, 1, 1, p, nada
+comida, 0, 2, 0, 1, 1, v, nada
+comida, 0, 0, 0, 0, 1, o, nada
+cena, 0, 2, 1, 0, 1, v, nada
+cena, 0, 2, 1, 0, 1, o, nada
+cena, 0, 2, 0, 0, 1, i, nada
+cena, 1, 2, 0, 0, 0, p, nada
+cena, 0, 1, 1, 0, 1, v, nada
+cena, 0, 2, 1, 0, 1, o, nada
+cena, 0, 1, 1, 1, 1, o, nada
+cena, 0, 2, 0, 0, 1, i, nada
+cena, 0, 1, 0, 0, 1, p, nada
+cena, 0, 2, 0, 0, 1, v, nada
+cena, 1, 2, 0, 0, 1, v, nada
+cena, 0, 2, 1, 0, 1, o, nada
+cena, 0, 2, 1, 0, 1, o, nada
+cena, 0, 2, 1, 1, 1, i, nada
+cena, 0, 2, 0, 0, 1, p, nada
+cena, 0, 1, 0, 1, 1, p, nada
+cena, 0, 2, 0, 1, 1, v, nada
+cena, 0, 1, 0, 0, 1, o, nada
+comida, 1, 1, 0, 0, 1, v, mini magnum
+comida, 1, 0, 0, 0, 1, v, mini magnum
+comida, 2, 0, 0, 1, 1, v, mini magnum
+comida, 1, 1, 0, 0, 1, v, mini magnum
+comida, 0, 1, 0, 1, 1, v, mini magnum
+comida, 1, 1, 0, 0, 1, p, mini magnum
+comida, 1, 0, 0, 0, 1, p, mini magnum
+comida, 2, 0, 0, 1, 1, p, mini magnum
+comida, 1, 1, 0, 0, 1, p, mini magnum
+comida, 0, 1, 0, 1, 1, v, mini magnum
+comida, 1, 1, 0, 0, 1, v, mini magnum
+comida, 1, 0, 0, 0, 1, v, mini magnum
+cena, 2, 0, 0, 1, 1, v, mini magnum
+cena, 1, 1, 0, 0, 1, v, mini magnum
+cena, 0, 1, 0, 1, 1, v, mini magnum
+cena, 1, 1, 0, 0, 1, p, mini magnum
+cena, 1, 0, 0, 0, 1, p, mini magnum
+cena, 2, 0, 0, 1, 1, p, mini magnum
+cena, 1, 1, 0, 0, 1, p, mini magnum
+cena, 0, 1, 0, 1, 1, v, mini magnum
+comida, 1, 1, 0, 0, 1, v, mini magnum
+comida, 0, 1, 0, 1, 1, v, mini magnum
+comida, 1, 1, 0, 0, 1, p, mini magnum
+comida, 1, 0, 0, 0, 1, i, pera
+comida, 2, 0, 0, 0, 1, i, pera
+comida, 1, 0, 0, 0, 1, i, pera
+comida, 2, 0, 0, 0, 1, i, pera
+comida, 1, 0, 0, 0, 1, o, pera
+comida, 2, 1, 0, 0, 1, o, pera
+comida, 1, 0, 0, 0, 1, o, pera
+comida, 2, 0, 0, 0, 1, o, pera
+comida, 1, 0, 0, 0, 1, o, pera
+comida, 1, 0, 0, 0, 1, o, pera
+comida, 2, 0, 0, 0, 1, o, pera
+comida, 1, 0, 0, 0, 0, v, plátano
+comida, 0, 0, 0, 0, 0, o, plátano 
+comida, 1, 1, 0, 1, 0, i, plátano 
+comida, 2, 1, 0, 0, 0, p, plátano 
+comida, 1, 1, 0, 1, 0, v, plátano 
+comida, 2, 0, 0, 0, 0, o, plátano 
+comida, 0, 0, 0, 0, 0, i, plátano 
+comida, 1, 1, 0, 0, 0, p, plátano 
+comida, 1, 0, 0, 1, 0, v, plátano 
+comida, 2, 1, 0, 0, 0, o, plátano
+comida, 1, 0, 0, 0, 0, i, plátano 
+cena, 0, 1, 0, 0, 0, p, plátano 
+cena, 1, 0, 0, 0, 0, v, plátano
+cena, 0, 0, 0, 0, 0, o, plátano 
+cena, 1, 1, 0, 1, 0, i, plátano 
+cena, 2, 1, 0, 0, 0, p, plátano 
+cena, 1, 1, 0, 1, 0, v, plátano 
+comida, 1, 2, 0, 0, 0, i, plátano 
+cena, 1, 0, 0, 0, 1, o, mandarina
+cena, 2, 0, 0, 0, 1, o, mandarina
+comida, 1, 1, 0, 1, 1, o, mandarina
+comida, 2, 0, 0, 0, 1, o, mandarina
+comida, 0, 1, 0, 0, 1, o, mandarina
+comida, 1, 1, 0, 0, 1, o, mandarina
+comida, 2, 1, 0, 0, 1, o, mandarina
+comida, 2, 0, 0, 0, 1, o, mandarina
+comida, 1, 1, 0, 0, 1, o, mandarina
+comida, 1, 0, 0, 0, 1, o, mandarina
+comida, 2, 1, 0, 0, 1, o, mandarina
+comida, 1, 0, 0, 0, 1, i, mandarina
+comida, 2, 0, 0, 0, 1, i, mandarina
+comida, 1, 1, 0, 1, 1, i, mandarina
+comida, 2, 0, 0, 0, 1, i, mandarina
+comida, 1, 1, 0, 1, 1, i, mandarina
+cena, 1, 1, 0, 0, 1, i, mandarina
+cena, 2, 0, 0, 0, 1, i, mandarina
+cena, 1, 1, 0, 0, 1, i, mandarina
+cena, 2, 0, 0, 0, 1, i, mandarina
+cena, 2, 1, 0, 1, 1, i, mandarina
+cena, 1, 1, 0, 0, 1, i, mandarina
+cena, 2, 1, 0, 0, 1, i, mandarina
+cena, 0, 1, 0, 0, 1, o, mandarina
+cena, 1, 1, 0, 0, 1, o, mandarina
+cena, 2, 1, 0, 0, 1, o, mandarina
+cena, 1, 0, 0, 0, 1, i, mandarina
+cena, 2, 0, 0, 0, 1, i, mandarina
+cena, 1, 1, 0, 1, 1, i, mandarina
+cena, 2, 0, 0, 0, 1, i, mandarina
+cena, 1, 1, 0, 1, 1, i, mandarina
+cena, 1, 1, 0, 0, 1, i, mandarina
+cena, 2, 0, 0, 0, 1, p, mandarina
+cena, 1, 1, 0, 0, 1, p, mandarina
+comida, 0, 1, 0, 0, 1, v, yogur 
+comida, 0, 0, 0, 0, 1, o, yogur
+comida, 0, 1, 0, 1, 1, i, yogur
+comida, 0, 0, 0, 0, 1, o, yogur
+comida, 0, 1, 0, 1, 1, i, yogur
+comida, 0, 0, 0, 0, 1, o, yogur
+comida, 0, 1, 0, 1, 1, i, yogur
+comida, 0, 1, 0, 0, 1, p, yogur
+comida, 0, 0, 0, 0, 1, v, yogur
+comida, 0, 1, 0, 0, 1, o, yogur
+comida, 1, 0, 0, 0, 1, i, yogur
+comida, 0, 0, 0, 0, 1, o, yogur
+comida, 1, 0, 0, 0, 1, i, yogur
+comida, 0, 1, 0, 0, 1, o, yogur
+comida, 1, 0, 0, 0, 1, i, yogur
+comida, 1, 1, 0, 0, 1, p, yogur
+comida, 1, 0, 0, 0, 1, v, yogur
+comida, 1, 0, 0, 0, 1, o, yogur
+comida, 0, 1, 0, 1, 1, i, yogur
+comida, 1, 0, 0, 0, 1, o, yogur
+comida, 0, 1, 0, 1, 1, i, yogur
+comida, 1, 1, 0, 1, 1, v, yogur
+cena, 0, 1, 0, 0, 1, v, yogur 
+cena, 0, 0, 0, 0, 1, o, yogur
+cena, 0, 1, 0, 1, 1, i, yogur
+cena, 0, 0, 0, 0, 1, o, yogur
+cena, 0, 1, 0, 1, 1, i, yogur
+cena, 0, 1, 0, 0, 1, p, yogur
+cena, 0, 0, 0, 0, 1, v, yogur
+cena, 0, 0, 0, 0, 1, o, yogur
+cena, 1, 0, 0, 0, 1, i, yogur
+cena, 0, 1, 0, 0, 1, o, yogur
+cena, 1, 0, 0, 0, 1, i, yogur
+cena, 0, 1, 0, 0, 1, o, yogur
+cena, 1, 0, 0, 0, 1, i, yogur
+cena, 1, 0, 0, 0, 1, v, yogur
+cena, 1, 1, 0, 0, 1, o, yogur
+cena, 0, 1, 0, 1, 1, i, yogur
+cena, 1, 0, 0, 0, 1, o, yogur
+cena, 0, 1, 0, 1, 1, i, yogur
+cena, 1, 0, 0, 0, 1, o, yogur
+cena, 0, 1, 0, 1, 1, i, yogur
+cena, 1, 1, 0, 1, 1, v, yogur
+comida, 1, 0, 0, 0, 1, p, ciruela 
+comida, 1, 1, 0, 0, 1, p, ciruela 
+comida, 2, 1, 0, 0, 1, p, ciruela
+cena, 2, 0, 0, 1, 1, p, ciruela 
+comida, 1, 1, 0, 0, 1, v, ciruela
+comida, 2, 2, 0, 0, 1, v, ciruela
+comida, 1, 0, 0, 0, 1, v, ciruela
+comida, 0, 0, 0, 0, 1, v, ciruela
+comida, 1, 1, 0, 1, 1, v, ciruela
+comida, 2, 1, 0, 1, 1, v, ciruela
+comida, 1, 0, 0, 0, 1, v, ciruela 
+cena, 2, 2, 0, 0, 1, v, ciruela
+cena, 0, 0, 0, 0, 1, v, ciruela
+cena, 1, 1, 0, 1, 1, v, ciruela
+cena, 2, 1, 0, 1, 1, v, ciruela
+cena, 1, 1, 0, 0, 1, v, ciruela 
+comida, 1, 0, 0, 0, 1, o, ciruela 
+comida, 1, 1, 0, 0, 1, o, ciruela 
+comida, 2, 1, 0, 0, 1, o, ciruela
+comida, 2, 0, 0, 1, 1, o, ciruela
+comida, 1, 2, 0, 0, 1, o, ciruela
+cena, 2, 0, 0, 1, 1, o, ciruela
+cena, 2, 1, 0, 0, 1, o, ciruela
+cena, 2, 0, 0, 1, 1, o, ciruela
+cena, 1, 2, 0, 0, 1, o, ciruela
+comida, 2, 0, 0, 1, 1, o, ciruela
+comida, 1, 2, 0, 0, 1, o, ciruela
+cena, 2, 0, 0, 1, 1, o, ciruela
+cena, 2, 1, 0, 0, 1, o, ciruela
+cena, 2, 0, 0, 0, 1, p, manzana
+cena, 1, 0, 0, 0, 1, p, manzana
+cena, 1, 1, 0, 1, 1, p, manzana
+cena, 1, 0, 0, 0, 1, p, manzana
+cena, 2, 0, 0, 0, 1, v, manzana
+cena, 1, 0, 0, 0, 1, v, manzana
+cena, 1, 0, 0, 0, 1, v, manzana
+cena, 1, 1, 0, 0, 1, v, manzana 
+cena, 2, 1, 0, 0, 1, v, manzana 
+cena, 1, 2, 0, 0, 1, v, manzana
+cena, 1, 1, 0, 1, 1, v, manzana
+cena, 2, 0, 0, 0, 1, o, manzana
+cena, 1, 0, 0, 0, 1, o, manzana
+cena, 2, 1, 0, 0, 1, o, manzana
+cena, 1, 0, 0, 0, 1, o, manzana
+cena, 2, 1, 0, 0, 1, o, manzana
+

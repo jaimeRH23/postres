@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Postre recomendado</title>
+    <style>
+      body {
+        text-align: center;
+      }
+      .centered {
+        display: block;
+        margin: 50px auto;
+        height: 200px;
+        object-fit: contain;}
+    </style>
+</head>
+<body>
+  <h1>El postre que más te apetece es:</h1>
+  <br>
+  <img src="{{ url_for('static', filename=imagen) }}" class="centered">
+  <h2>{{ postre }}</h2>
+  <br><br>
+  <label style="font-size: 18px;">
+    Que lo disfrutes 
+  </label>
+  <br><br><br><br>
+  <a href="/" style="font-size: 17px;">Volver</a>
+</body>
+</html>

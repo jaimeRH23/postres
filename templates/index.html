@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Seleccionador de postres</title>
+    <style>
+      body {
+        text-align: center;}
+    </style>
+</head>
+
+<body>
+    <h1>Seleccionador de postres online</h1>
+    <br>
+    <h2>Responde a las siguientes preguntas y descubrirás qué postre quieres en realidad</h2>
+    <br><br>
+    <form action="/resultado" method="post">
+        <label style="font-size: 18px;">
+            ¿Este es el postre de la comida o de la cena?
+        </label> 
+        <br><br><br>
+        <label><input type="radio" name="tipo" value="comida" checked> Comida</label>
+        <label><input type="radio" name="tipo" value="cena"> Cena</label>
+        </select><br><br><br><br>
+
+        <label style="font-size: 18px;">
+            ¿Cuánta hambre tienes?
+        </label>
+        <br><br><br>
+        <label><input type="radio" name="hambre" value="0" checked> Nada</label>
+        <label><input type="radio" name="hambre" value="1"> Algo</label>
+        <label><input type="radio" name="hambre" value="2"> Mucha</label>
+        </select><br><br><br><br>
+
+        <label style="font-size: 18px;">
+            ¿Cómo de cansado estás?
+        </label>
+        <br><br><br>
+        <label><input type="radio" name="cansancio" value="0" checked> Nada</label>
+        <label><input type="radio" name="cansancio" value="1"> Algo</label>
+        <label><input type="radio" name="cansancio" value="2"> Mucho</label>
+        </select><br><br><br><br>
+
+        <label style="font-size: 18px;">
+            ¿Estás en un restaurante?
+        </label>
+        <br><br><br>
+        <label><input type="radio" name="restaurante" value="0" checked> No</label>
+        <label><input type="radio" name="restaurante" value="1"> Sí</label>
+        </select><br><br><br><br>
+
+        <label style="font-size: 18px;">
+            ¿Estás en algun tipo de celebración (cumpleaños, comida de Navidad, etc)?
+        </label>
+        <br><br><br>
+        <label><input type="radio" name="celebracion" value="0" checked> No</label>
+        <label><input type="radio" name="celebracion" value="1"> Sí</label>
+        </select><br><br><br><br>
+
+        <label style="font-size: 18px;">
+            ¿Ya has comido plátano hoy?
+        </label>
+        <br><br><br>
+        <label><input type="radio" name="comido_platano" value="0" checked> No</label>
+        <label><input type="radio" name="comido_platano" value="1"> Sí</label>
+        </select><br><br><br><br>
+
+        <label style="font-size: 18px;">
+        ¿En qué estación del año estás?
+        </label>
+        <br><br><br>
+        <label><input type="radio" name="estacion" value="v" checked> Verano</label>
+        <label><input type="radio" name="estacion" value="o"> Otoño</label>
+        <label><input type="radio" name="estacion" value="i"> Invierno</label>
+        <label><input type="radio" name="estacion" value="p"> Primavera</label>
+        </select><br><br><br><br>
+
+        <button type="submit">Enviar</button>
+        <br><br>
+    </form>
+
+</body>
+</html>

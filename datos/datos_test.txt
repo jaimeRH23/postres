@@ -1,0 +1,23 @@
+tipo, hambre, cansancio, restaurante, celebracion, comido_platano, estacion, postre
+comida, 2, 1, 1, 0, 1, v, flan
+cena, 1, 0, 1, 0, 1, o, flan
+comida, 2, 1, 1, 0, 1, i, natillas
+cena, 1, 0, 1, 0, 1, p, natillas
+comida, 2, 1, 1, 1, 1, o, tarta
+cena, 1, 1, 0, 1, 1, p, tarta
+comida, 0, 2, 0, 0, 1, o, nada
+cena, 0, 1, 0, 0, 1, i, nada
+comida, 1, 0, 0, 0, 1, v, mini magnum
+cena, 1, 1, 0, 0, 1, p, mini magnum
+cena, 2, 1, 0, 0, 1, o, pera
+cena, 2, 1, 0, 0, 1, v, pera
+comida, 2, 1, 0, 0, 0, o, plátano
+comida, 1, 0, 0, 0, 0, i, plátano 
+comida, 1, 0, 0, 0, 1, i, mandarina
+cena, 2, 1, 0, 0, 1, i, mandarina
+comida, 1, 0, 0, 0, 1, p, yogur
+comida, 0, 1, 0, 1, 1, o, yogur
+comida, 1, 2, 0, 0, 1, v, ciruela
+cena, 2, 0, 0, 1, 1, v, ciruela
+cena, 1, 0, 0, 0, 1, v, manzana
+cena, 2, 1, 0, 0, 1, v, manzana 
