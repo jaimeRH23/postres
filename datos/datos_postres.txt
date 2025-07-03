@@ -64,7 +64,9 @@ cena, 0, 0, 0, 1, 1, v, nada
 comida, 1, 0, 0, 0, 1, v, mini magnum
 comida, 1, 0, 0, 0, 1, v, ciruela
 cena, 1, 0, 0, 0, 1, v, manzana
-comida, 0, 2, 0, 0, 1, v, yogur
+comida, 0, 1, 0, 0, 1, v, yogur
+comida, 1, 0, 0, 0, 1, v, yogur 
+cena, 0, 1, 0, 0, 1, v, nada
 comida, 2, 0, 1, 0, 1, o, flan
 comida, 1, 1, 1, 0, 1, o, flan
 comida, 1, 0, 1, 1, 1, v, flan
@@ -112,12 +114,27 @@ comida, 2, 1, 1, 0, 0, p, natillas
 comida, 2, 0, 1, 0, 1, p, tarta
 comida, 2, 0, 1, 1, 1, p, tarta
 comida, 1, 1, 0, 1, 1, p, tarta
-comida, 0, 2, 0, 1, 1, i, tarta
+comida, 2, 0, 1, 0, 1, p, tarta
+comida, 2, 1, 1, 0, 1, p, tarta
+comida, 1, 1, 0, 1, 1, p, tarta
+comida, 0, 0, 0, 1, 1, i, tarta
 comida, 1, 0, 0, 1, 1, p, tarta
 comida, 1, 1, 0, 1, 1, v, tarta
 comida, 0, 2, 0, 1, 1, v, tarta
+comida, 1, 1, 0, 1, 1, v, tarta
+comida, 0, 0, 0, 1, 1, v, tarta
+comida, 1, 1, 0, 1, 1, o, tarta
+comida, 0, 0, 0, 1, 1, o, tarta
+cena, 1, 1, 0, 1, 1, o, tarta
+cena, 0, 2, 0, 1, 1, o, tarta
 comida, 1, 0, 1, 0, 1, o, tarta
 comida, 1, 1, 0, 1, 1, i, tarta
+comida, 1, 1, 0, 1, 1, i, tarta
+comida, 2, 1, 0, 1, 1, i, tarta
+cena, 1, 1, 0, 1, 1, i, tarta
+cena, 1, 0, 0, 1, 1, i, tarta
+comida, 2, 1, 0, 1, 1, i, tarta
+comida, 2, 0, 0, 1, 1, i, tarta
 cena, 1, 1, 0, 1, 1, v, tarta
 cena, 1, 1, 0, 1, 1, o, tarta
 cena, 1, 1, 0, 1, 1, i, tarta
@@ -127,12 +144,18 @@ cena, 1, 0, 1, 0, 1, v, tarta
 cena, 0, 1, 0, 1, 1, o, tarta
 cena, 0, 1, 0, 1, 1, i, tarta
 cena, 1, 1, 0, 1, 1, p, tarta
+cena, 1, 0, 0, 1, 1, v, tarta
+cena, 0, 1, 0, 1, 1, o, tarta
+cena, 0, 1, 0, 1, 1, i, tarta
+cena, 1, 1, 0, 1, 1, p, tarta
 cena, 2, 0, 1, 1, 0, i, tarta
 cena, 1, 1, 1, 1, 1, o, tarta
 comida, 2, 0, 1, 0, 1, v, tarta
 comida, 1, 1, 0, 1, 1, i, tarta
 comida, 2, 0, 1, 0, 0, o, tarta
 comida, 2, 0, 1, 1, 1, o, tarta
+comida, 1, 0, 1, 0, 0, o, tarta
+comida, 2, 1, 1, 1, 1, o, tarta
 comida, 1, 1, 0, 1, 0, i, tarta
 comida, 0, 2, 0, 1, 1, o, tarta
 comida, 0, 2, 1, 0, 1, v, nada
@@ -190,10 +213,6 @@ cena, 1, 1, 0, 0, 1, p, mini magnum
 cena, 1, 0, 0, 0, 1, p, mini magnum
 cena, 2, 0, 0, 1, 1, p, mini magnum
 cena, 1, 1, 0, 0, 1, p, mini magnum
-cena, 0, 1, 0, 1, 1, v, mini magnum
-comida, 1, 1, 0, 0, 1, v, mini magnum
-comida, 0, 1, 0, 1, 1, v, mini magnum
-comida, 1, 1, 0, 0, 1, p, mini magnum
 comida, 1, 0, 0, 0, 1, i, pera
 comida, 2, 0, 0, 0, 1, i, pera
 comida, 1, 0, 0, 0, 1, i, pera
@@ -300,32 +319,19 @@ cena, 0, 1, 0, 1, 1, i, yogur
 cena, 1, 0, 0, 0, 1, o, yogur
 cena, 0, 1, 0, 1, 1, i, yogur
 cena, 1, 1, 0, 1, 1, v, yogur
-comida, 1, 0, 0, 0, 1, p, ciruela 
-comida, 1, 1, 0, 0, 1, p, ciruela 
-comida, 2, 1, 0, 0, 1, p, ciruela
-cena, 2, 0, 0, 1, 1, p, ciruela 
 comida, 1, 1, 0, 0, 1, v, ciruela
 comida, 2, 2, 0, 0, 1, v, ciruela
 comida, 1, 0, 0, 0, 1, v, ciruela
 comida, 0, 0, 0, 0, 1, v, ciruela
-comida, 1, 1, 0, 1, 1, v, ciruela
-comida, 2, 1, 0, 1, 1, v, ciruela
-comida, 1, 0, 0, 0, 1, v, ciruela 
+comida, 1, 1, 0, 0, 1, v, ciruela
 cena, 2, 2, 0, 0, 1, v, ciruela
-cena, 0, 0, 0, 0, 1, v, ciruela
-cena, 1, 1, 0, 1, 1, v, ciruela
+cena, 1, 1, 0, 0, 1, v, ciruela
 cena, 2, 1, 0, 1, 1, v, ciruela
 cena, 1, 1, 0, 0, 1, v, ciruela 
 comida, 1, 0, 0, 0, 1, o, ciruela 
 comida, 1, 1, 0, 0, 1, o, ciruela 
 comida, 2, 1, 0, 0, 1, o, ciruela
-comida, 2, 0, 0, 1, 1, o, ciruela
-comida, 1, 2, 0, 0, 1, o, ciruela
-cena, 2, 0, 0, 1, 1, o, ciruela
-cena, 2, 1, 0, 0, 1, o, ciruela
-cena, 2, 0, 0, 1, 1, o, ciruela
-cena, 1, 2, 0, 0, 1, o, ciruela
-comida, 2, 0, 0, 1, 1, o, ciruela
+comida, 2, 0, 0, 0, 1, o, ciruela
 comida, 1, 2, 0, 0, 1, o, ciruela
 cena, 2, 0, 0, 1, 1, o, ciruela
 cena, 2, 1, 0, 0, 1, o, ciruela
@@ -345,4 +351,3 @@ cena, 1, 0, 0, 0, 1, o, manzana
 cena, 2, 1, 0, 0, 1, o, manzana
 cena, 1, 0, 0, 0, 1, o, manzana
 cena, 2, 1, 0, 0, 1, o, manzana
-
